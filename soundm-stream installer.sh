@@ -28,7 +28,7 @@
 PBX_type=("error" "3CX" "Avaya" "Lucent" "Asterix" "Gamma" "Yeastar" "BT" "Samsung" "LG" "Meridian" "Cisco" "Norstar" "Panasonic" "NEC" "CustomPBX" "")
 
 # 3CX Variables
-    3CX_settings=("/var/lib/3cxpbx/Instance1/Data/Ivr/Prompts/Sets/" "onhold" "-ac 1 -acodec pcm_s16le -ar 8000 onhold.wav")
+    ThreeCX_settings=("/var/lib/3cxpbx/Instance1/Data/Ivr/Prompts/Sets/" "onhold" "-ac 1 -acodec pcm_s16le -ar 8000 onhold.wav")
 
 # Avaya Variables
     Avaya_settings=("" "" "-ac 1-codec:a pcm_mulaw -ar 8000 onhold.wav" ""
